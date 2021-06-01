@@ -77,7 +77,7 @@
 | 4 |  [mjml](https://github.com/mjmlio/mjml) | MJML: the only framework that makes responsive-email easy | mjmlio | 12157 |
 | 5 |  [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – | serverless | 39847 |
 | 6 |  [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | hakimel | 56433 |
-| 7 |  [tips](https://github.com/git-tips/tips) | Most commonly used git tips and tricks. | git-tips | 19693 |
+| 7 |  [tips](https://github.com/git-tips/tips) | Most commonly used git tips and tricks. | git-tips | 19694 |
 | 8 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 52483 |
 | 9 |  [exceljs](https://github.com/exceljs/exceljs) | Excel Workbook Manager | exceljs | 7640 |
 | 10 |  [react-testing-library-course](https://github.com/kentcdodds/react-testing-library-course) | Test React Components with Jest and React Testing Library on TestingJavaScript.com | kentcdodds | 734 |
@@ -93,7 +93,7 @@
 | 20 |  [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white_check_mark:  The Node.js best practices list (June 2021) | goldbergyoni | 66485 |
 | 21 |  [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | juliangarnier | 39416 |
 | 22 |  [react-fullstack-graphql](https://github.com/graphql-boilerplates/react-fullstack-graphql) | Starter projects for fullstack applications based on React & GraphQL. | graphql-boilerplates | 1375 |
-| 23 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 108393 |
+| 23 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 108394 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -121,23 +121,23 @@
 | 12 |  [learn-regex](https://github.com/ziishaned/learn-regex) | Learn regex the easy way | ziishaned | 38063 |
 | 13 |  [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) | A cheatsheet of modern C++ language and library features. | AnthonyCalandra | 11919 |
 | 14 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 190699 |
-| 15 |  [awesome-react-components](https://github.com/brillout/awesome-react-components) | Curated List of React Components & Libraries. | brillout | 27021 |
+| 15 |  [awesome-react-components](https://github.com/brillout/awesome-react-components) | Curated List of React Components & Libraries. | brillout | 27022 |
 | 16 |  [react-redux-links](https://github.com/markerikson/react-redux-links) | Curated tutorial and resource links I've collected on React, Redux, ES6, and more | markerikson | 20567 |
 | 17 |  [interview](https://github.com/Olshansk/interview) | Everything you need to prepare for your technical interview | Olshansk | 13693 |
-| 18 |  [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. | labuladong | 90674 |
+| 18 |  [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. | labuladong | 90673 |
 | 19 |  [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | A curated list of awesome Deep Learning tutorials, projects and communities. | ChristosChristofidis | 17194 |
 | 20 |  [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for college students | dipakkr | 12412 |
 | 21 |  [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) | Docker Cheat Sheet | wsargent | 20003 |
 | 22 |  [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | bradtraversy | 29455 |
-| 23 |  [project-based-learning](https://github.com/tuvtran/project-based-learning) | Curated list of project-based tutorials | tuvtran | 50667 |
+| 23 |  [project-based-learning](https://github.com/tuvtran/project-based-learning) | Curated list of project-based tutorials | tuvtran | 50669 |
 | 24 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 41272 |
 | 25 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 43761 |
 | 26 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 86629 |
 | 27 |  [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: | DopplerHQ | 40962 |
 | 28 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 139240 |
-| 29 |  [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | thedaviddias | 52973 |
+| 29 |  [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | thedaviddias | 52974 |
 | 30 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 37155 |
-| 31 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 | kamranahmedse | 161373 |
+| 31 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 | kamranahmedse | 161374 |
 | 32 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 174418 |
 | 33 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 107856 |
 
@@ -150,19 +150,19 @@
 | 2 |  [git-xl](https://github.com/xlwings/git-xl) | Git extension: Makes git-diff work for Excel workbooks (xls* file types) | xlwings | 369 |
 | 3 |  [httpie](https://github.com/httpie/httpie) | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie | httpie | 50911 |
 | 4 |  [you-get](https://github.com/soimort/you-get) | :arrow_double_down: Dumb downloader that scrapes the web | soimort | 40536 |
-| 5 |  [InstaPy](https://github.com/timgrossmann/InstaPy) | 📷 Instagram Bot - Tool for automated Instagram interactions | timgrossmann | 12823 |
-| 6 |  [ChatterBot](https://github.com/gunthercox/ChatterBot) | ChatterBot is a machine learning, conversational dialog engine for creating chat bots | gunthercox | 11187 |
+| 5 |  [InstaPy](https://github.com/timgrossmann/InstaPy) | 📷 Instagram Bot - Tool for automated Instagram interactions | timgrossmann | 12824 |
+| 6 |  [ChatterBot](https://github.com/gunthercox/ChatterBot) | ChatterBot is a machine learning, conversational dialog engine for creating chat bots | gunthercox | 11188 |
 | 7 |  [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards. | donnemartin | 22676 |
 | 8 |  [localstack](https://github.com/localstack/localstack) | 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! | localstack | 30464 |
 | 9 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 99067 |
 | 10 |  [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. | josephmisiti | 50256 |
 | 11 |  [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | isocpp | 30892 |
 | 12 |  [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | satwikkansal | 26665 |
-| 13 |  [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | TheAlgorithms | 108645 |
-| 14 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 133478 |
+| 13 |  [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | TheAlgorithms | 108646 |
+| 14 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 133480 |
 | 15 |  [face_recognition](https://github.com/ageitgey/face_recognition) | The world's simplest facial recognition api for Python and the command line | ageitgey | 40143 |
 | 16 |  [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! | floodsung | 29917 |
-| 17 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 126055 |
+| 17 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 126058 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -184,7 +184,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 162067 |
+| 1 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 162070 |
 | 2 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 58209 |
 
 **[⬆ Back to Index](#-contents)**
@@ -192,7 +192,7 @@
 ## TeX
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | The most cited deep learning papers | terryum | 22926 |
+| 1 |  [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | The most cited deep learning papers | terryum | 22927 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -211,7 +211,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [wiki](https://github.com/Requarks/wiki) | Wiki.js \| A modern and powerful wiki app built on Node.js | Requarks | 12975 |
+| 1 |  [wiki](https://github.com/Requarks/wiki) | Wiki.js \| A modern and powerful wiki app built on Node.js | Requarks | 12976 |
 | 2 |  [best-resume-ever](https://github.com/salomonelli/best-resume-ever) | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. | salomonelli | 14739 |
 
 **[⬆ Back to Index](#-contents)**
