@@ -179,7 +179,11 @@
 | 12 |  [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | satwikkansal | 26791 |
 | 13 |  [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | TheAlgorithms | 110736 |
 | 14 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 136507 |
+<<<<<<< HEAD
 | 15 |  [face_recognition](https://github.com/ageitgey/face_recognition) | The world's simplest facial recognition api for Python and the command line | ageitgey | 40457 |
+=======
+| 15 |  [face_recognition](https://github.com/ageitgey/face_recognition) | The world&#39;s simplest facial recognition api for Python and the command line | ageitgey | 40457 |
+>>>>>>> 237b6aebab1ef68654f9dbd9578a32697f5bd5b0
 | 16 |  [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! | floodsung | 30044 |
 | 17 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 132566 |
 
