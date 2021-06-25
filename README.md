@@ -101,7 +101,7 @@
 | 17 |  [sharp](https://github.com/lovell/sharp) | High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. | lovell | 19915 |
 | 18 |  [faker.js](https://github.com/Marak/faker.js) | generate massive amounts of realistic fake data in Node.js and the browser | Marak | 32605 |
 | 19 |  [gitbook](https://github.com/GitbookIO/gitbook) | 📝 Modern documentation format and toolchain using Git and Markdown | GitbookIO | 23751 |
-| 20 |  [draft-js](https://github.com/facebook/draft-js) | A React framework for building text editors. | facebook | 20457 |
+| 20 |  [draft-js](https://github.com/facebook/draft-js) | A React framework for building text editors. | facebook | 20458 |
 | 21 |  [joi](https://github.com/sideway/joi) | The most powerful data validation library for JS | sideway | 17234 |
 | 22 |  [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide | airbnb | 110424 |
 | 23 |  [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) | Beautiful and accessible drag and drop for lists with React | atlassian | 24066 |
@@ -178,10 +178,10 @@
 | 11 |  [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | isocpp | 31072 |
 | 12 |  [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | satwikkansal | 26791 |
 | 13 |  [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | TheAlgorithms | 110736 |
-| 14 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 136506 |
+| 14 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 136507 |
 | 15 |  [face_recognition](https://github.com/ageitgey/face_recognition) | The world&#39;s simplest facial recognition api for Python and the command line | ageitgey | 40457 |
 | 16 |  [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! | floodsung | 30044 |
-| 17 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 132565 |
+| 17 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 132566 |
 
 **[⬆ Back to Index](#-contents)**
 
