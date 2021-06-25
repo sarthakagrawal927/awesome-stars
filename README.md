@@ -86,12 +86,12 @@
 | 2 |  [typeahead.js](https://github.com/twitter/typeahead.js) | typeahead.js is a fast and fully-featured autocomplete library | twitter | 16286 |
 | 3 |  [umami](https://github.com/mikecao/umami) | Umami is a simple, fast, website analytics alternative to Google Analytics. | mikecao | 8067 |
 | 4 |  [inferno](https://github.com/infernojs/inferno) | :fire: An extremely fast, React-like JavaScript library for building modern user interfaces | infernojs | 14940 |
-| 5 |  [preact](https://github.com/preactjs/preact) | ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. | preactjs | 29352 |
+| 5 |  [preact](https://github.com/preactjs/preact) | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM. | preactjs | 29352 |
 | 6 |  [react-nice-dates](https://github.com/hernansartorio/react-nice-dates) | A responsive, touch-friendly, and modular date picker library for React. | hernansartorio | 977 |
 | 7 |  [progressive-tooling](https://github.com/GoogleChromeLabs/progressive-tooling) | A list of community-built, third-party tools that can be used to improve page performance | GoogleChromeLabs | 516 |
 | 8 |  [immer](https://github.com/immerjs/immer) | Create the next immutable state by mutating the current one | immerjs | 20465 |
 | 9 |  [mjml](https://github.com/mjmlio/mjml) | MJML: the only framework that makes responsive-email easy | mjmlio | 12227 |
-| 10 |  [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – | serverless | 40035 |
+| 10 |  [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – | serverless | 40035 |
 | 11 |  [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | hakimel | 56601 |
 | 12 |  [tips](https://github.com/git-tips/tips) | Most commonly used git tips and tricks. | git-tips | 19810 |
 | 13 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 52975 |
@@ -101,14 +101,14 @@
 | 17 |  [sharp](https://github.com/lovell/sharp) | High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. | lovell | 19915 |
 | 18 |  [faker.js](https://github.com/Marak/faker.js) | generate massive amounts of realistic fake data in Node.js and the browser | Marak | 32605 |
 | 19 |  [gitbook](https://github.com/GitbookIO/gitbook) | 📝 Modern documentation format and toolchain using Git and Markdown | GitbookIO | 23751 |
-| 20 |  [draft-js](https://github.com/facebook/draft-js) | A React framework for building text editors. | facebook | 20457 |
+| 20 |  [draft-js](https://github.com/facebook/draft-js) | A React framework for building text editors. | facebook | 20458 |
 | 21 |  [joi](https://github.com/sideway/joi) | The most powerful data validation library for JS | sideway | 17234 |
 | 22 |  [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide | airbnb | 110424 |
 | 23 |  [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) | Beautiful and accessible drag and drop for lists with React | atlassian | 24066 |
 | 24 |  [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. | leonardomso | 40812 |
 | 25 |  [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white_check_mark:  The Node.js best practices list (June 2021) | goldbergyoni | 67531 |
 | 26 |  [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | juliangarnier | 39660 |
-| 27 |  [react-fullstack-graphql](https://github.com/graphql-boilerplates/react-fullstack-graphql) | Starter projects for fullstack applications based on React &amp; GraphQL. | graphql-boilerplates | 1380 |
+| 27 |  [react-fullstack-graphql](https://github.com/graphql-boilerplates/react-fullstack-graphql) | Starter projects for fullstack applications based on React & GraphQL. | graphql-boilerplates | 1380 |
 | 28 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 111087 |
 
 **[⬆ Back to Index](#-contents)**
@@ -133,15 +133,15 @@
 | 8 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. | awesomedata | 44966 |
 | 9 |  [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. | Developer-Y | 23627 |
 | 10 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 21658 |
-| 11 |  [awesome-graphql](https://github.com/chentsulin/awesome-graphql) | Awesome list of GraphQL &amp; Relay | chentsulin | 12698 |
+| 11 |  [awesome-graphql](https://github.com/chentsulin/awesome-graphql) | Awesome list of GraphQL & Relay | chentsulin | 12698 |
 | 12 |  [my-cs-degree](https://github.com/logancyang/my-cs-degree) | A CS degree with a focus on full-stack ML engineering, 2020 | logancyang | 446 |
 | 13 |  [Coding_Notes](https://github.com/ankitpriyarup/Coding_Notes) |  | ankitpriyarup | 842 |
 | 14 |  [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | :link: Some useful websites for programmers. | sdmg15 | 40959 |
 | 15 |  [learn-regex](https://github.com/ziishaned/learn-regex) | Learn regex the easy way | ziishaned | 38225 |
 | 16 |  [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) | A cheatsheet of modern C++ language and library features. | AnthonyCalandra | 12152 |
 | 17 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 194262 |
-| 18 |  [awesome-react-components](https://github.com/brillout/awesome-react-components) | Curated List of React Components &amp; Libraries. | brillout | 27291 |
-| 19 |  [react-redux-links](https://github.com/markerikson/react-redux-links) | Curated tutorial and resource links I&#39;ve collected on React, Redux, ES6, and more | markerikson | 20662 |
+| 18 |  [awesome-react-components](https://github.com/brillout/awesome-react-components) | Curated List of React Components & Libraries. | brillout | 27291 |
+| 19 |  [react-redux-links](https://github.com/markerikson/react-redux-links) | Curated tutorial and resource links I've collected on React, Redux, ES6, and more | markerikson | 20662 |
 | 20 |  [interview](https://github.com/Olshansk/interview) | Everything you need to prepare for your technical interview | Olshansk | 13800 |
 | 21 |  [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. | labuladong | 91877 |
 | 22 |  [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | A curated list of awesome Deep Learning tutorials, projects and communities. | ChristosChristofidis | 17308 |
@@ -167,21 +167,21 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [mkdocs](https://github.com/mkdocs/mkdocs) | Project documentation with Markdown. | mkdocs | 12377 |
 | 2 |  [git-xl](https://github.com/xlwings/git-xl) | Git extension: Makes git-diff work for Excel workbooks (xls* file types) | xlwings | 372 |
-| 3 |  [httpie](https://github.com/httpie/httpie) | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie | httpie | 51160 |
+| 3 |  [httpie](https://github.com/httpie/httpie) | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie | httpie | 51160 |
 | 4 |  [you-get](https://github.com/soimort/you-get) | :arrow_double_down: Dumb downloader that scrapes the web | soimort | 40784 |
 | 5 |  [InstaPy](https://github.com/timgrossmann/InstaPy) | 📷 Instagram Bot - Tool for automated Instagram interactions | timgrossmann | 12920 |
 | 6 |  [ChatterBot](https://github.com/gunthercox/ChatterBot) | ChatterBot is a machine learning, conversational dialog engine for creating chat bots | gunthercox | 11255 |
 | 7 |  [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards. | donnemartin | 22901 |
-| 8 |  [localstack](https://github.com/localstack/localstack) | 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! | localstack | 30876 |
+| 8 |  [localstack](https://github.com/localstack/localstack) | 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! | localstack | 30876 |
 | 9 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 99903 |
 | 10 |  [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. | josephmisiti | 50505 |
 | 11 |  [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | isocpp | 31072 |
 | 12 |  [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | satwikkansal | 26791 |
 | 13 |  [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | TheAlgorithms | 110736 |
-| 14 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 136506 |
-| 15 |  [face_recognition](https://github.com/ageitgey/face_recognition) | The world&#39;s simplest facial recognition api for Python and the command line | ageitgey | 40457 |
+| 14 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 136507 |
+| 15 |  [face_recognition](https://github.com/ageitgey/face_recognition) | The world's simplest facial recognition api for Python and the command line | ageitgey | 40457 |
 | 16 |  [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! | floodsung | 30044 |
-| 17 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 132565 |
+| 17 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 132566 |
 
 **[⬆ Back to Index](#-contents)**
 
